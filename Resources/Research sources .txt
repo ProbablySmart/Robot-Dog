@@ -1,0 +1,13 @@
+Trigonometry
+https://www.mathsisfun.com/algebra/trigonometry.html
+
+IK explained 
+https://www.sciencedirect.com/topics/engineering/inverse-kinematics#:~:text=Inverse%20kinematics%20is%20just%20opposite,for%20arm%20in%20sagittal%20plane.
+
+Prime Example 
+https://www.instructables.com/Nova-Spot-Micro-a-Spot-Mini-Clone/
+
+My google Drive link to download files
+https://drive.google.com/drive/folders/1XYx20tn_iEYFV_VV8Y-_4k0dALnr4k_O?usp=drive_link
+
+Special Thanks to James Bruton and his robot dog project which inspired me and helped me along the way
